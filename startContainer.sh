@@ -10,5 +10,5 @@ RESULTAT=$(docker run -d -p 80 -m 200M --env VHOST=$VHOST urik/apache-uoc:$VERSI
 if [ -z "$RESULTAT" ]; 
 then 
 sh ./startServer.sh
-sh ./startContainer.sh
+#sh ./startContainer.sh
 fi
