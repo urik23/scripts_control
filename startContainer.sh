@@ -13,7 +13,8 @@ if [ -z "$RESULTAT" ];
 then 
   nodesSwarmObj=$(docker info | grep Nodes | awk '{print $2}')
   nodesSwarm=$nodesSwarmObj
-  sh ./startServer.sh &
+  date >> server.log
+  sh ./startServer.sh >> server.log &
   segons=0
   echo $nodesSwarmObj
   echo $nodesSwarm
@@ -24,7 +25,8 @@ then
          echo $segons "secs. -" $nodesSwarm "nodes swarm"
       done
   if [ "$nodesSwarm" -ne "$nodesSwarmObj" ]; then
-  sh ./startContainer.sh
+    date >> server.log
+    sh ./startContainer.sh >> server.log &
   fi
 fi
 
