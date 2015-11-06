@@ -1,0 +1,773 @@
+Wed Nov  4 20:50:25 UTC 2015
+Wed Nov  4 20:50:27 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+95 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+100 secs. - 1 nodes swarm
+Setting Docker configuration on the remote daemon...
+105 secs. - 1 nodes swarm
+Configuring swarm...
+110 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+115 secs. - 1 nodes swarm
+120 secs. - 1 nodes swarm
+125 secs. - 2 nodes swarm
+Wed Nov  4 20:53:02 UTC 2015
+Wed Nov  4 21:15:57 UTC 2015
+Wed Nov  4 21:18:05 UTC 2015
+Wed Nov  4 21:18:07 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+5 secs. - 1 nodes swarm
+Waiting for machine to be running, this may take a few minutes...
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+85 secs. - 1 nodes swarm
+Provisioning created instance...
+90 secs. - 1 nodes swarm
+95 secs. - 1 nodes swarm
+100 secs. - 1 nodes swarm
+105 secs. - 1 nodes swarm
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+120 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+125 secs. - 1 nodes swarm
+Configuring swarm...
+130 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-2
+3
+135 secs. - 1 nodes swarm
+140 secs. - 1 nodes swarm
+145 secs. - 1 nodes swarm
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 1 nodes swarm
+165 secs. - 1 nodes swarm
+170 secs. - 1 nodes swarm
+175 secs. - 1 nodes swarm
+180 secs. - 1 nodes swarm
+185 secs. - 1 nodes swarm
+190 secs. - 1 nodes swarm
+195 secs. - 1 nodes swarm
+200 secs. - 1 nodes swarm
+205 secs. - 1 nodes swarm
+210 secs. - 1 nodes swarm
+215 secs. - 1 nodes swarm
+220 secs. - 1 nodes swarm
+225 secs. - 1 nodes swarm
+230 secs. - 1 nodes swarm
+235 secs. - 1 nodes swarm
+240 secs. - 1 nodes swarm
+245 secs. - 1 nodes swarm
+250 secs. - 1 nodes swarm
+255 secs. - 1 nodes swarm
+260 secs. - 1 nodes swarm
+265 secs. - 1 nodes swarm
+270 secs. - 1 nodes swarm
+275 secs. - 1 nodes swarm
+280 secs. - 1 nodes swarm
+285 secs. - 1 nodes swarm
+290 secs. - 1 nodes swarm
+295 secs. - 1 nodes swarm
+300 secs. - 1 nodes swarm
+Thu Nov  5 16:18:16 UTC 2015
+Thu Nov  5 16:18:18 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+50 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+Provisioning created instance...
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+85 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+90 secs. - 1 nodes swarm
+Setting Docker configuration on the remote daemon...
+95 secs. - 1 nodes swarm
+Configuring swarm...
+100 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+105 secs. - 1 nodes swarm
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+120 secs. - 1 nodes swarm
+125 secs. - 1 nodes swarm
+130 secs. - 1 nodes swarm
+135 secs. - 1 nodes swarm
+140 secs. - 1 nodes swarm
+145 secs. - 1 nodes swarm
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 1 nodes swarm
+165 secs. - 1 nodes swarm
+170 secs. - 1 nodes swarm
+175 secs. - 1 nodes swarm
+180 secs. - 1 nodes swarm
+185 secs. - 1 nodes swarm
+190 secs. - 1 nodes swarm
+195 secs. - 1 nodes swarm
+200 secs. - 1 nodes swarm
+205 secs. - 1 nodes swarm
+210 secs. - 1 nodes swarm
+215 secs. - 1 nodes swarm
+220 secs. - 1 nodes swarm
+225 secs. - 1 nodes swarm
+230 secs. - 1 nodes swarm
+235 secs. - 1 nodes swarm
+240 secs. - 1 nodes swarm
+245 secs. - 1 nodes swarm
+250 secs. - 1 nodes swarm
+255 secs. - 1 nodes swarm
+260 secs. - 1 nodes swarm
+265 secs. - 1 nodes swarm
+270 secs. - 1 nodes swarm
+275 secs. - 1 nodes swarm
+280 secs. - 1 nodes swarm
+285 secs. - 1 nodes swarm
+290 secs. - 1 nodes swarm
+295 secs. - 1 nodes swarm
+300 secs. - 1 nodes swarm
+Thu Nov  5 16:25:20 UTC 2015
+1
+Successfully removed swarm-node-1
+Thu Nov  5 16:30:07 UTC 2015
+Thu Nov  5 16:30:10 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+50 secs. - 1 nodes swarm
+55 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+60 secs. - 1 nodes swarm
+Provisioning created instance...
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+95 secs. - 1 nodes swarm
+Setting Docker configuration on the remote daemon...
+100 secs. - 1 nodes swarm
+Configuring swarm...
+105 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+120 secs. - 2 nodes swarm
+Thu Nov  5 16:32:29 UTC 2015
+1
+Successfully removed swarm-node-1
+Thu Nov  5 16:34:05 UTC 2015
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+
+Receieved an interrupt, performing cleanup work...
+2
+Thu Nov  5 16:34:40 UTC 2015
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+Thu Nov  5 16:34:51 UTC 2015
+Thu Nov  5 16:34:53 UTC 2015
+1
+1
+3
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+75 secs. - 1 nodes swarm
+Configuring swarm...
+80 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-2
+4
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+95 secs. - 1 nodes swarm
+100 secs. - 1 nodes swarm
+105 secs. - 1 nodes swarm
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+120 secs. - 1 nodes swarm
+125 secs. - 1 nodes swarm
+130 secs. - 1 nodes swarm
+135 secs. - 1 nodes swarm
+140 secs. - 1 nodes swarm
+145 secs. - 1 nodes swarm
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 1 nodes swarm
+165 secs. - 1 nodes swarm
+170 secs. - 1 nodes swarm
+175 secs. - 1 nodes swarm
+180 secs. - 1 nodes swarm
+185 secs. - 1 nodes swarm
+Thu Nov  5 17:11:52 UTC 2015
+Thu Nov  5 17:11:54 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+Provisioning created instance...
+95 secs. - 1 nodes swarm
+100 secs. - 1 nodes swarm
+105 secs. - 1 nodes swarm
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+120 secs. - 1 nodes swarm
+125 secs. - 1 nodes swarm
+130 secs. - 1 nodes swarm
+135 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+140 secs. - 1 nodes swarm
+Configuring swarm...
+145 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 1 nodes swarm
+165 secs. - 1 nodes swarm
+170 secs. - 2 nodes swarm
+Thu Nov  5 17:15:06 UTC 2015
+1
+Successfully removed swarm-node-1
+Thu Nov  5 17:23:36 UTC 2015
+Thu Nov  5 17:23:39 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+5 secs. - 1 nodes swarm
+Waiting for machine to be running, this may take a few minutes...
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+95 secs. - 1 nodes swarm
+Setting Docker configuration on the remote daemon...
+100 secs. - 1 nodes swarm
+Configuring swarm...
+105 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+110 secs. - 2 nodes swarm
+Thu Nov  5 17:25:44 UTC 2015
+Thu Nov  5 17:27:03 UTC 2015
+Thu Nov  5 17:31:29 UTC 2015
+Thu Nov  5 17:31:31 UTC 2015
+2
+2
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 2 nodes swarm
+10 secs. - 2 nodes swarm
+15 secs. - 2 nodes swarm
+20 secs. - 2 nodes swarm
+25 secs. - 2 nodes swarm
+30 secs. - 2 nodes swarm
+35 secs. - 2 nodes swarm
+40 secs. - 2 nodes swarm
+45 secs. - 2 nodes swarm
+Machine is running, waiting for SSH to be available...
+50 secs. - 2 nodes swarm
+Detecting operating system of created instance...
+55 secs. - 2 nodes swarm
+60 secs. - 2 nodes swarm
+Provisioning created instance...
+65 secs. - 2 nodes swarm
+70 secs. - 2 nodes swarm
+75 secs. - 2 nodes swarm
+80 secs. - 2 nodes swarm
+85 secs. - 2 nodes swarm
+90 secs. - 2 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+95 secs. - 2 nodes swarm
+Setting Docker configuration on the remote daemon...
+Configuring swarm...
+100 secs. - 2 nodes swarm
+105 secs. - 2 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-2
+3
+110 secs. - 2 nodes swarm
+115 secs. - 3 nodes swarm
+Thu Nov  5 17:33:45 UTC 2015
+Thu Nov  5 17:36:13 UTC 2015
+2
+Successfully removed swarm-node-2
+Thu Nov  5 17:36:30 UTC 2015
+1
+Successfully removed swarm-node-1
+Fri Nov  6 15:57:49 UTC 2015
+Fri Nov  6 15:57:52 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+95 secs. - 1 nodes swarm
+100 secs. - 1 nodes swarm
+105 secs. - 1 nodes swarm
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+120 secs. - 1 nodes swarm
+125 secs. - 1 nodes swarm
+130 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+135 secs. - 1 nodes swarm
+140 secs. - 1 nodes swarm
+145 secs. - 1 nodes swarm
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 1 nodes swarm
+165 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+170 secs. - 1 nodes swarm
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+Configuring swarm...
+175 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+180 secs. - 1 nodes swarm
+185 secs. - 1 nodes swarm
+190 secs. - 1 nodes swarm
+195 secs. - 1 nodes swarm
+200 secs. - 1 nodes swarm
+205 secs. - 1 nodes swarm
+210 secs. - 1 nodes swarm
+215 secs. - 1 nodes swarm
+220 secs. - 1 nodes swarm
+225 secs. - 1 nodes swarm
+230 secs. - 1 nodes swarm
+235 secs. - 1 nodes swarm
+240 secs. - 1 nodes swarm
+245 secs. - 1 nodes swarm
+250 secs. - 1 nodes swarm
+255 secs. - 1 nodes swarm
+260 secs. - 1 nodes swarm
+265 secs. - 1 nodes swarm
+270 secs. - 1 nodes swarm
+275 secs. - 1 nodes swarm
+280 secs. - 1 nodes swarm
+285 secs. - 1 nodes swarm
+290 secs. - 1 nodes swarm
+295 secs. - 1 nodes swarm
+300 secs. - 1 nodes swarm
+Fri Nov  6 16:04:25 UTC 2015
+Fri Nov  6 16:04:27 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+Provisioning created instance...
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+95 secs. - 1 nodes swarm
+100 secs. - 1 nodes swarm
+105 secs. - 1 nodes swarm
+110 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+115 secs. - 1 nodes swarm
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+120 secs. - 1 nodes swarm
+Configuring swarm...
+125 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+130 secs. - 1 nodes swarm
+135 secs. - 1 nodes swarm
+140 secs. - 1 nodes swarm
+145 secs. - 1 nodes swarm
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 1 nodes swarm
+165 secs. - 1 nodes swarm
+170 secs. - 1 nodes swarm
+175 secs. - 1 nodes swarm
+Fri Nov  6 16:12:20 UTC 2015
+Fri Nov  6 16:12:22 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+5 secs. - 1 nodes swarm
+Waiting for machine to be running, this may take a few minutes...
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+65 secs. - 1 nodes swarm
+70 secs. - 1 nodes swarm
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+95 secs. - 1 nodes swarm
+100 secs. - 1 nodes swarm
+105 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+120 secs. - 1 nodes swarm
+125 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+130 secs. - 1 nodes swarm
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+135 secs. - 1 nodes swarm
+Configuring swarm...
+140 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+145 secs. - 1 nodes swarm
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 2 nodes swarm
+Fri Nov  6 16:15:25 UTC 2015
+Fri Nov  6 16:17:39 UTC 2015
+Fri Nov  6 16:18:48 UTC 2015
+Fri Nov  6 16:18:50 UTC 2015
+2
+2
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 2 nodes swarm
+10 secs. - 2 nodes swarm
+15 secs. - 2 nodes swarm
+20 secs. - 2 nodes swarm
+25 secs. - 2 nodes swarm
+30 secs. - 2 nodes swarm
+35 secs. - 2 nodes swarm
+40 secs. - 2 nodes swarm
+45 secs. - 2 nodes swarm
+Machine is running, waiting for SSH to be available...
+50 secs. - 2 nodes swarm
+55 secs. - 2 nodes swarm
+60 secs. - 2 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+65 secs. - 2 nodes swarm
+70 secs. - 2 nodes swarm
+75 secs. - 2 nodes swarm
+80 secs. - 2 nodes swarm
+85 secs. - 2 nodes swarm
+Copying certs to the local machine directory...
+90 secs. - 2 nodes swarm
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+95 secs. - 2 nodes swarm
+Configuring swarm...
+100 secs. - 2 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-2
+3
+105 secs. - 2 nodes swarm
+110 secs. - 2 nodes swarm
+115 secs. - 3 nodes swarm
+Fri Nov  6 16:21:02 UTC 2015
+Fri Nov  6 16:22:40 UTC 2015
+2
+Successfully removed swarm-node-2
+Fri Nov  6 16:24:10 UTC 2015
+Fri Nov  6 16:24:12 UTC 2015
+2
+2
+Running pre-create checks...
+Creating machine...
+5 secs. - 2 nodes swarm
+Waiting for machine to be running, this may take a few minutes...
+10 secs. - 2 nodes swarm
+15 secs. - 2 nodes swarm
+20 secs. - 2 nodes swarm
+25 secs. - 2 nodes swarm
+30 secs. - 2 nodes swarm
+35 secs. - 2 nodes swarm
+40 secs. - 2 nodes swarm
+45 secs. - 2 nodes swarm
+50 secs. - 2 nodes swarm
+55 secs. - 2 nodes swarm
+60 secs. - 2 nodes swarm
+65 secs. - 2 nodes swarm
+Machine is running, waiting for SSH to be available...
+70 secs. - 2 nodes swarm
+75 secs. - 2 nodes swarm
+80 secs. - 2 nodes swarm
+85 secs. - 2 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+90 secs. - 2 nodes swarm
+95 secs. - 2 nodes swarm
+100 secs. - 2 nodes swarm
+105 secs. - 2 nodes swarm
+110 secs. - 2 nodes swarm
+115 secs. - 2 nodes swarm
+120 secs. - 2 nodes swarm
+125 secs. - 2 nodes swarm
+130 secs. - 2 nodes swarm
+Copying certs to the local machine directory...
+135 secs. - 2 nodes swarm
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+140 secs. - 2 nodes swarm
+Configuring swarm...
+145 secs. - 2 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-2
+3
+150 secs. - 2 nodes swarm
+155 secs. - 2 nodes swarm
+160 secs. - 2 nodes swarm
+165 secs. - 3 nodes swarm
+Fri Nov  6 16:27:23 UTC 2015
+Fri Nov  6 16:31:19 UTC 2015
+Fri Nov  6 16:32:58 UTC 2015
+Fri Nov  6 16:33:01 UTC 2015
+3
+3
+Running pre-create checks...
+Creating machine...
+5 secs. - 3 nodes swarm
+Waiting for machine to be running, this may take a few minutes...
+10 secs. - 3 nodes swarm
+15 secs. - 3 nodes swarm
+20 secs. - 3 nodes swarm
+25 secs. - 3 nodes swarm
+30 secs. - 3 nodes swarm
+35 secs. - 3 nodes swarm
+40 secs. - 3 nodes swarm
+45 secs. - 3 nodes swarm
+50 secs. - 3 nodes swarm
+55 secs. - 3 nodes swarm
+60 secs. - 3 nodes swarm
+65 secs. - 3 nodes swarm
+Machine is running, waiting for SSH to be available...
+70 secs. - 3 nodes swarm
+75 secs. - 3 nodes swarm
+80 secs. - 3 nodes swarm
+Detecting operating system of created instance...
+85 secs. - 3 nodes swarm
+Provisioning created instance...
+90 secs. - 3 nodes swarm
+95 secs. - 3 nodes swarm
+100 secs. - 3 nodes swarm
+105 secs. - 3 nodes swarm
+110 secs. - 3 nodes swarm
+Copying certs to the local machine directory...
+115 secs. - 3 nodes swarm
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+120 secs. - 3 nodes swarm
+Configuring swarm...
+125 secs. - 3 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-3
+4
+130 secs. - 3 nodes swarm
+135 secs. - 3 nodes swarm
+140 secs. - 4 nodes swarm
+Fri Nov  6 16:35:44 UTC 2015
+Fri Nov  6 16:37:19 UTC 2015
+Fri Nov  6 16:49:59 UTC 2015
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+Machine is running, waiting for SSH to be available...
+Detecting operating system of created instance...
+Provisioning created instance...
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+Configuring swarm...
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
+2
+Fri Nov  6 16:52:45 UTC 2015

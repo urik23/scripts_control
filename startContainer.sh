@@ -7,7 +7,8 @@ eval "$(docker-machine env --swarm swarm-master)"
 VERSION=`etcdctl get /GLOBAL/VERSION`
 VHOST=`etcdctl get /GLOBAL/VHOST`
 
-RESULTAT=$(docker run -d -p 80 -m 200M --env VHOST=$VHOST urik/apache-uoc:$VERSION)
+RESULTAT=$(docker run -d -p 8080 -m 200M --env VHOST=$VHOST urik/web-uoc) 
+#RESULTAT=$(docker run -d -p 80 -m 200M --env VHOST=$VHOST urik/apache-uoc:$VERSION)
 
 if [ -z "$RESULTAT" ]; 
 then 
