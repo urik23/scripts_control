@@ -771,3 +771,79 @@ Configuring swarm...
 To see how to connect Docker to this machine, run: docker-machine env swarm-node-1
 2
 Fri Nov  6 16:52:45 UTC 2015
+Mon Nov  9 12:10:56 UTC 2015
+Mon Nov  9 12:10:58 UTC 2015
+1
+1
+Running pre-create checks...
+Creating machine...
+Waiting for machine to be running, this may take a few minutes...
+5 secs. - 1 nodes swarm
+10 secs. - 1 nodes swarm
+15 secs. - 1 nodes swarm
+20 secs. - 1 nodes swarm
+25 secs. - 1 nodes swarm
+30 secs. - 1 nodes swarm
+35 secs. - 1 nodes swarm
+40 secs. - 1 nodes swarm
+45 secs. - 1 nodes swarm
+50 secs. - 1 nodes swarm
+Machine is running, waiting for SSH to be available...
+55 secs. - 1 nodes swarm
+60 secs. - 1 nodes swarm
+65 secs. - 1 nodes swarm
+Detecting operating system of created instance...
+Provisioning created instance...
+70 secs. - 1 nodes swarm
+75 secs. - 1 nodes swarm
+80 secs. - 1 nodes swarm
+85 secs. - 1 nodes swarm
+90 secs. - 1 nodes swarm
+Copying certs to the local machine directory...
+Copying certs to the remote machine...
+Setting Docker configuration on the remote daemon...
+95 secs. - 1 nodes swarm
+Configuring swarm...
+100 secs. - 1 nodes swarm
+To see how to connect Docker to this machine, run: docker-machine env swarm-node-3
+4
+105 secs. - 1 nodes swarm
+110 secs. - 1 nodes swarm
+115 secs. - 1 nodes swarm
+120 secs. - 1 nodes swarm
+125 secs. - 1 nodes swarm
+130 secs. - 1 nodes swarm
+135 secs. - 1 nodes swarm
+140 secs. - 1 nodes swarm
+145 secs. - 1 nodes swarm
+150 secs. - 1 nodes swarm
+155 secs. - 1 nodes swarm
+160 secs. - 1 nodes swarm
+165 secs. - 1 nodes swarm
+170 secs. - 1 nodes swarm
+175 secs. - 1 nodes swarm
+180 secs. - 1 nodes swarm
+185 secs. - 1 nodes swarm
+190 secs. - 1 nodes swarm
+195 secs. - 1 nodes swarm
+200 secs. - 1 nodes swarm
+205 secs. - 1 nodes swarm
+210 secs. - 1 nodes swarm
+215 secs. - 1 nodes swarm
+220 secs. - 1 nodes swarm
+225 secs. - 1 nodes swarm
+230 secs. - 1 nodes swarm
+235 secs. - 1 nodes swarm
+240 secs. - 1 nodes swarm
+245 secs. - 1 nodes swarm
+250 secs. - 1 nodes swarm
+255 secs. - 1 nodes swarm
+260 secs. - 1 nodes swarm
+265 secs. - 1 nodes swarm
+270 secs. - 1 nodes swarm
+275 secs. - 1 nodes swarm
+280 secs. - 1 nodes swarm
+285 secs. - 1 nodes swarm
+290 secs. - 1 nodes swarm
+295 secs. - 1 nodes swarm
+300 secs. - 1 nodes swarm

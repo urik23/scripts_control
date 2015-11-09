@@ -9,19 +9,30 @@ export DOCKER_CERT_PATH="/home/core/.docker/machine/certs"
 export DOCKER_MACHINE_NAME="swarm-master"
 
 
-  mitja=$(docker stats --no-stream=true $(docker ps -q) | awk -f mitja.awk)
+ # mitja=$(docker stats --no-stream=true $(docker ps -q) | awk -f mitja.awk)
+  touch acuMitja
+  lin=$(wc -l < acuMitja)
+  
+  if [ "$lin" -eq 5 ]; then
+     tail --lines=4 acuMitja > acuMitjaTemp 
+     mv acuMitjaTemp acuMitja
+  fi
+
+  docker ps -q | awk -f cpu.awk -v lin=$lin >> acuMitja
+
+  mitja=$(awk '{total+=$1} END{print total/NR}' acuMitja)
  
   echo $mitja
-  var=$(awk -v mitja=$mitja 'BEGIN{ if ( mitja > 5 ) {print 1} else {print 0} }')
+  var=$(awk -v mitja=$mitja 'BEGIN{ if ( mitja > 2 ) {print 1} else {print 0} }')
 
   echo "var1 " $var
   if [ "$var" -eq 1 ]; then
     echo "StartContainer"
-   date >> server.log   
-   sh startContainer.sh >> server.log & 
+  # date >> server.log   
+  # sh startContainer.sh >> server.log & 
   fi
 
-  var=$(awk -v mitja=$mitja 'BEGIN{ if ( mitja < 2 ) {print 1} else {print 0} }')
+  var=$(awk -v mitja=$mitja 'BEGIN{ if ( mitja < 1 ) {print 1} else {print 0} }')
   echo "var2 " $var
   if [ "$var" -eq 1 ]; then
     serverNum=`etcdctl get /GLOBAL/SERVER_NUM`
